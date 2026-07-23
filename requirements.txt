@@ -1,14 +1,14 @@
-#Core API
+# Core API
 fastapi==0.111.0
 uvicorn==0.30.1
 python-dotenv==1.0.1
 
-#Data & ML (MATCH PICKLE)
-numpy==2.1.0
+# Data & ML (MATCH PICKLE)
+numpy==1.26.4
 scipy==1.13.1
 pandas==2.2.2
 scikit-learn==1.5.1
 joblib==1.4.2
 
-#Frontend 
+# Frontend 
 streamlit==1.36.0
